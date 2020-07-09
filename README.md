@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👯 I’m looking to collaborate on startups.
+- 🌱 I’m currently learning data science
+- 📫 How to reach me: linkedin @ukashasohail
