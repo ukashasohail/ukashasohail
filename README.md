@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 I’m looking to collaborate on startups.
+
+- 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: linkedin @ukashasohail
+
+[![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)
