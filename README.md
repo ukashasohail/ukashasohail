@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)
 
+- 💻 Computer & Information Systems Engineering undergraduate at NED UET  
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: linkedin @ukashasohail
-  
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ukashasohail)
