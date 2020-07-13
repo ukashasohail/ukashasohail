@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 💻 Computer & Information Systems Engineering undergraduate at NED UET  
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning data science
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ukashasohail) **@ukashasohail**
+- 📫 How to reach me: **linkedin** **[@ukashasohail]**(https://www.linkedin.com/in/ukashasohail)
 
