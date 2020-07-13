@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ukashasohail.visitor-badge)](https://github.com/ukashasohail) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
 - 💻 Computer & Information Systems Engineering undergraduate at NED UET  
 - 👯 I’m looking to collaborate on startups
