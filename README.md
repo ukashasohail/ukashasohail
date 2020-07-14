@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: **linkedin** [@ukashasohail](https://www.linkedin.com/in/ukashasohail)
 
-[![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail)](https://github.com/ukashasohail/github-readme-stats)
+![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true)
