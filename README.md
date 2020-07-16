@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 [![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)
 
 <!-- visitors as of 13th July 2020 -->
@@ -26,9 +25,19 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 💻 Computer & Information Systems Engineering undergraduate at NED University of Engineering & Technology  
+- 💻 Computer & Information Systems Engineering undergraduate at NED University of Engineering & Technology
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: **linkedin** [@ukashasohail](https://www.linkedin.com/in/ukashasohail)
+
+<p><a href="https://www.twitter.com/ukashasohail"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+
+<a href="https://www.linkedin.com/in/ukashasohail"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+
+<a href="https://www.instagram.com/ukashasohail/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+
+<!-- <a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>  -->
+
+<!-- <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p> -->
 
 ![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
