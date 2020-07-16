@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - 💻 Computer & Information Systems Engineering undergraduate at NED University of Engineering & Technology  
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning Data Science
