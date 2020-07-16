@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ukashasohail.visitor-badge)](https://github.com/ukashasohail) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
-- 💻 Computer & Information Systems Engineering undergraduate at NED UET  
+- 💻 Computer & Information Systems Engineering undergraduate at NED University of Engineering & Technology  
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: **linkedin** [@ukashasohail](https://www.linkedin.com/in/ukashasohail)
