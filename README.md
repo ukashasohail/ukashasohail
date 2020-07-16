@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on startups
 - 🌱 I’m currently learning Data Science
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20160518085101%21Node.js_logo.svg/120px-Node.js_logo.svg.png"> <b> Node.JS </b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20160518085101%21Node.js_logo.svg/120px-Node.js_logo.svg.png" width="20">
 
 <p>
 
