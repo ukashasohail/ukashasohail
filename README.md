@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💻 Computer & Information Systems Engineering undergraduate at NED University of Engineering & Technology  
 - 👯 I’m looking to collaborate on startups
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: **linkedin** [@ukashasohail](https://www.linkedin.com/in/ukashasohail)
 
 ![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
