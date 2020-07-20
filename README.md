@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true&theme=merko)
