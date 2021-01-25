@@ -40,10 +40,6 @@ Here are some ideas to get you started:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2KHVmdFPuOFq-WqS4juc3JMhwTWf41p_c7Q&usqp=CAU" width="120">
 <img src="https://lh5.googleusercontent.com/qv3se3iNSRxWjIuDIvvJIhM6xp651y7KWL5h6oM6GZN4Hk8Bf9Iq0PVc8Q=w1200-h630-p" width="100"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40"> &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40">
-<img src="" width="">
-<img src="" width="">
-
-<img src="" width="">
 
 <p>
 
