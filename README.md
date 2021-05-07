@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)
+<!--[![HitCount](http://hits.dwyl.com/ukashasohail/ukashasohail.svg)](http://hits.dwyl.com/ukashasohail/ukashasohail)-->
 
 <!-- visitors as of 13th July 2020 -->
 <!-- down -->
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ukashasohail.visitor-badge)](https://github.com/ukashasohail)  -->
 
-<!--### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
