@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- <samp> -->
 
 - 🖥️ Software Developer
-- 💻 Computer Systems Engineering undergraduate at NED University of Engineering & Technology
+- 💻 Computer Systems Engineering undergraduate at NED UET.
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/ukashasohail"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
