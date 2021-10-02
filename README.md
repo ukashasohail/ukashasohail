@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- <samp> -->
 
 - 🖥️ Software Engineer
-- 💻 Bacherlors in Computer Systems Engineering
+- 💻 Bachelors in Computer Systems Engineering
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/ukashasohail"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <!-- </samp> -->
