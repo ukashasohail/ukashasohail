@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Software Engineer
 - 💻 Bachelors in Computer Systems Engineering
-- ☁️: 2x AWS Certified 
+- ☁️ 2x AWS Certified 
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/ukashasohail"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <!-- </samp> -->
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p> -->
 
-<!-- 
+
 <div>
     <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div> -->
+</div>
 
 <br>
 <br>
