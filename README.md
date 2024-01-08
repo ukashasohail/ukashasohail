@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<!--  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 <!-- <samp> -->
 
 - 🖥️ Software Engineer
 - 🖥️ Cyber Security Researcher
 - ☁️ 2x AWS Certified 
-- 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/ukashasohail"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <!-- </samp> -->
 
