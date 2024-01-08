@@ -52,9 +52,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p> -->
 
-<img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
 
-<!-- 
 <div>
     <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -79,6 +77,6 @@ Here are some ideas to get you started:
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div> -->
+</div> 
 
 <!-- ![Ukasha's github stats](https://github-readme-stats.vercel.app/api?username=ukashasohail&show_icons=true&theme=merko) -->
