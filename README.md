@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <!-- <samp> -->
 
 - Software Engineer by day, Cybersecurity researcher by night
-- 2x AWS Certified
 
 <!-- </samp> -->
 
