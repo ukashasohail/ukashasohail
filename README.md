@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 <!-- visitors as of 13th July 2020 -->
 <!-- down -->
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ukashasohail.visitor-badge)](https://github.com/ukashasohail)  -->
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ukashasohail.visitor-badge)](https://github.com/ukashasohail)
 
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ukashasohail)
 
-<!--  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <samp> -->
 
 Software Engineer by day, Cybersecurity researcher by night
